@@ -22,7 +22,7 @@ O objetivo do projeto foi criar uma página web responsiva utilizando os fundame
 Criar uma página informativa sobre o surgimento do sistema operacional Android, praticando:
 
 - Estruturação de páginas com HTML5
-- Estilização avançada com CSS3
+- Estilização com CSS3
 - Organização de arquivos
 - Responsividade
 - Boas práticas de desenvolvimento
